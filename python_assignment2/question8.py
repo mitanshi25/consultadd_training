@@ -1,4 +1,7 @@
-
+# 8. Write a program that accepts a string as an input from the user and calculate the number of digits
+# and letters.
+# Sample input: consul72
+# Expected output: Letters 6 Digits 2
 
  
 
