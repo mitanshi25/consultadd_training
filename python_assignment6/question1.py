@@ -3,7 +3,7 @@
 # comprehension.
 
 
-str1=input("enter a string")
-for i in str1:
+str1 = input("enter a string")
+for i in str1 :
     if i.isupper():
         print(str1)
