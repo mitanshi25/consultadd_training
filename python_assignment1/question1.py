@@ -3,3 +3,8 @@
 # them belongs to a different data type.
 
 x, y, z = "python", 7.5, 6
+
+a =10
+b= 35
+sum = a+b
+print(sum)
